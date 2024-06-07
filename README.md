@@ -1,14 +1,14 @@
 # kelontong
 
-This template should help get you started developing with Vue 3 in Vite.
+Kelontong store is a simple application built using Vue 3 + Vite with Pinia as the state management solution, and it utilizes Tailwind CSS and PrimeVue as CSS libraries.
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+For a more comfortable development experience, it is recommended to use [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
 ## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Refer to the [Vite Configuration Reference](https://vitejs.dev/config/) to customize the configuration.
 
 ## Project Setup
 
@@ -33,3 +33,15 @@ npm run build
 ```sh
 npm run lint
 ```
+
+## Main Features
+
+1. **Authentication**
+   - The application includes authentication functionalities such as login and register.
+
+2. **Product Management**
+   - Product Management allows users to perform various operations such as listing, viewing details, updating, deleting, and creating products.
+
+3. **Product Category Management**
+   - Product Category Management enables users to perform various operations such as listing, viewing details, updating, deleting, and creating product categories.
+
